@@ -1,0 +1,10 @@
+INSERT INTO products (name, price, creation_date) VALUES ('product 1', 464, NOW());
+INSERT INTO products (name, price, creation_date) VALUES ('product 2', 565, NOW());
+INSERT INTO products (name, price, creation_date) VALUES ('product 3', 575, NOW());
+INSERT INTO products (name, price, creation_date) VALUES ('product 4', 876, NOW());
+INSERT INTO products (name, price, creation_date) VALUES ('product 5', 123, NOW());
+INSERT INTO products (name, price, creation_date) VALUES ('product 6', 875, NOW());
+INSERT INTO products (name, price, creation_date) VALUES ('product 7', 154, NOW());
+INSERT INTO products (name, price, creation_date) VALUES ('product 8', 325, NOW());
+INSERT INTO products (name, price, creation_date) VALUES ('product 9', 963, NOW());
+INSERT INTO products (name, price, creation_date) VALUES ('product 10', 754, NOW());
